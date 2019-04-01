@@ -1,0 +1,46 @@
+
+.logContainer {
+    width: 50%;
+    margin: 0 auto;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+
+
+.logContainer h2 {
+    font-weight: 300;
+    text-align: center;  
+    font-size: 30px;
+    margin:15px;
+    color: #009999;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.logContainer input {
+    font-size: 100%;
+    width: 100%;
+    font-weight: 300;
+    margin-top: 15px;
+    padding: 12px 10px;
+    box-sizing: border-box;
+    min-height: 35px;
+    background: #f7f7f9;
+    border: 1px solid #ced4da;
+    border-radius: 0.75em;
+}
+
+
+.logContainer button {
+    background: #009999;
+    border: #2e6da4 solid 1px;
+    font-size: 100%;
+    font-weight: bold;
+    width: 100%;
+    min-height: 35px;
+    border-radius: 0.75em;
+    padding: 10px;
+    color: #fff;
+    margin-top: 15px;
+}
